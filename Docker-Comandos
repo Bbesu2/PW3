@@ -1,0 +1,7 @@
+Docker compose -a __ Mostra todos os container
+Docker Compose Up -d __ sobe o documento PADRAO - 'docker-conpose.yml' ao docker
+docker compose -f 'NovoNome' up -d __ Caso o arquivo não tenha o nome padrao, usar o -f
+
+docker exec -it NomePasta-web-1 bash __ Entra no root
+
+-it = interatividade
